@@ -3,7 +3,7 @@ description: A brief description of your site
 author: Your Name
 email: your.email@example.com
 logo: /assets/images/logo.png
-theme: jekyll-theme-borrow
+theme: jekyll-theme-minima
 show_downloads: true
 github:
   zip_url: https://github.com/yourname/yourrepo/archive/master.zip
