@@ -1,7 +1,23 @@
 title: Hien Vu
-description: A brief description of your site
-author: Your Name
-email: your.email@example.com
-logo: /assets/images/logo.png
+
+description: >
+  Hien Vu is pursuing degrees in Econometrics & Quantitative Economics and Finance
+  at the University of South Florida. 
+  
+  Past summer, he interned at LCG Advisors as
+  a Market Researcher & Summer Consultant, where he leveraged data analytics,
+  financial research, and market analysis to evaluate industry trends, support
+  client-facing insights, and develop data-driven recommendations.
+
+  <br><br>
+
+  <p>
+    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> |
+    <a href="https://github.com/vghien">GitHub</a> |
+    <a href="mailto:your.email@example.com">Email</a>
+  </p>
+
+logo: /portfolio/assets/img/headshot1.png
+
 theme: jekyll-theme-minimal
-show_downloads: true
+show_downloads: false
