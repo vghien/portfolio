@@ -2,9 +2,7 @@ title: Hien Vu
 
 description: >
   Hien Vu is pursuing degrees in Econometrics & Quantitative Economics and Finance
-  at the University of South Florida. 
-  
-  Past summer, he interned at LCG Advisors as
+  at the University of South Florida. This summer, he interned at LCG Advisors as
   a Market Researcher & Summer Consultant, where he leveraged data analytics,
   financial research, and market analysis to evaluate industry trends, support
   client-facing insights, and develop data-driven recommendations.
@@ -12,12 +10,24 @@ description: >
   <br><br>
 
   <p>
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> |
+    <a href="https://www.linkedin.com/vghien">LinkedIn</a> |
     <a href="https://github.com/vghien">GitHub</a> |
-    <a href="mailto:your.email@example.com">Email</a>
+    <a href="mailto:vghienedu@gmail.com">Email</a>
   </p>
 
-logo: /portfolio/assets/img/headshot1.png
+  <hr>
+
+  <h3>Projects</h3>
+
+  <p>
+    <a href="https://github.com/vghien/YOUR-RETAIL-PROJECT">Retail Customer Segmentation & Recommendation System</a>
+  </p>
+
+  <p>
+    <a href="https://github.com/vghien/YOUR-FRAUD-PROJECT">Customer Transaction Fraud Detection</a>
+  </p>
+
+logo: /portfolio/assets/img/img_2919.jpg
 
 theme: jekyll-theme-minimal
 show_downloads: false
