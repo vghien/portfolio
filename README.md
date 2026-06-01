@@ -4,7 +4,7 @@
 
 ## Personal Project
 
-### [Auto Insurance Product Analytics] (https://github.com/vghien/auto_insurance_product_analytics)
+### [Auto Insurance Product Analytics](https://github.com/vghien/auto_insurance_product_analytics)
 
 <img src="/portfolio/assets/img/project3photo.png" width="750">
 
