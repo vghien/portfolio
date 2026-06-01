@@ -4,7 +4,13 @@
 
 ## Personal Project
 
-### [Erlotinib-Biomarker-Pipeline](https://github.com/vghien/erlotinib-biomarker-pipeline)
+### [Auto Insurance Product Analytics] (https://github.com/vghien/auto_insurance_product_analytics)
+
+<img src="/portfolio/assets/img/project3photo.png" width="750">
+
+This project evaluated rating-feature performance and a simulated telematics discount program for a personal auto insurance product. The goal was to analyze product performance, monitor rating variables, evaluate telematics program impact, and test whether discount rules were implemented correctly before launch.
+
+### [Erlotinib Biomarker Pipeline](https://github.com/vghien/erlotinib-biomarker-pipeline)
 
 <img src="/portfolio/assets/img/project2photo.png" width="750">
 
